@@ -55,6 +55,32 @@ After Changes above code
 static final int intVal=42;
 static final String strVal="Hello, world!";
 ```
+## 4. Using Enhanced for Loop
+```java
+public void zero(){
+	int sum=0;
+	for(int i=0;i<array.length;++i){
+		sum+=array[i];
+	}
+}
+```
+```java
+public void one(){
+	int sum=0;
+	int length=array.length;
+	for(int i=0;i<length;++i){
+		sum+=array[i];
+	}
+}
+```
+```java
+public void two(){
+	int sum=0;
+	for(int a;array){
+		sum+=a;
+	}
+}
+```
 
 Reference 
 Link ["The Code City": Optimize Android App Performance - Efficiency Tips](https://www.youtube.com/watch?v=wCeSYRwNP50).
