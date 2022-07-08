@@ -25,6 +25,20 @@ private String getString(String name){
 	return "Hello " + name;
 }
 
+##2. Creating static methods
+Normal method 
+```java
+private String getString(String name){
+	return "Hello " + name;
+}
+
+```
+Not accessing any fields of the class so made this static
+After Changes above code
+```java
+private static String getString(String name){
+	return "Hello " + name;
+}
 
 Reference 
-["The Code City": Optimize Android App Performance - Efficiency Tips](https://www.youtube.com/watch?v=wCeSYRwNP50)
+["The Code City": Optimize Android App Performance - Efficiency Tips](https://www.youtube.com/watch?v=wCeSYRwNP50).
