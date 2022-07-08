@@ -24,6 +24,7 @@ After Changes above code
 private String getString(String name){
 	return "Hello " + name;
 }
+```
 
 ##2. Creating static methods
 Normal method 
@@ -40,5 +41,19 @@ private static String getString(String name){
 	return "Hello " + name;
 }
 ```
+
+##3. Creating final static variables
+Class needs to be initialised for this these variables are accessed using class
+
+```java
+static int intVal=42;
+static String strVal="Hello, world!";
+```
+After Changes above code
+```java
+static final int intVal=42;
+static final String strVal="Hello, world!";
+```
+
 Reference 
 Link ["The Code City": Optimize Android App Performance - Efficiency Tips](https://www.youtube.com/watch?v=wCeSYRwNP50).
