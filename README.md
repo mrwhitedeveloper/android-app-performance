@@ -39,6 +39,6 @@ After Changes above code
 private static String getString(String name){
 	return "Hello " + name;
 }
-
+```
 Reference 
-["The Code City": Optimize Android App Performance - Efficiency Tips](https://www.youtube.com/watch?v=wCeSYRwNP50).
+Link ["The Code City": Optimize Android App Performance - Efficiency Tips](https://www.youtube.com/watch?v=wCeSYRwNP50).
