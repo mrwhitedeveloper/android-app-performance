@@ -2,7 +2,7 @@
 Coding practice to increase performance of Android App
 
 
-##Performance Tips
+## Performance Tips
 1. Avoiding Unnecessary Object Creation
 2. Creating static methods
 3. Creating final static variables
@@ -10,7 +10,7 @@ Coding practice to increase performance of Android App
 5. Minimizing access to private methods from inner class
 6. Using int where possible.
 
-##1. Avoiding Unnecessary Object Creation
+## 1. Avoiding Unnecessary Object Creation
 Method using unnecessary variable
 ```java
 private String getString(String name){
@@ -26,7 +26,7 @@ private String getString(String name){
 }
 ```
 
-##2. Creating static methods
+## 2. Creating static methods
 Normal method 
 ```java
 private String getString(String name){
@@ -42,7 +42,8 @@ private static String getString(String name){
 }
 ```
 
-##3. Creating final static variables
+## 3. Creating final static variables
+
 Class needs to be initialised for this these variables are accessed using class
 
 ```java
