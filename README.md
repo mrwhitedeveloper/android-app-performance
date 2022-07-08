@@ -83,4 +83,7 @@ public void two(){
 ```
 
 Reference 
-Link ["The Code City": Optimize Android App Performance - Efficiency Tips](https://www.youtube.com/watch?v=wCeSYRwNP50).
+
+Link 1 ["The Code City": Optimize Android App Performance - Efficiency Tips](https://www.youtube.com/watch?v=wCeSYRwNP50).
+
+Link 2 [Improve Android App Performance](https://radixweb.com/blog/how-to-improve-android-app-performance).
