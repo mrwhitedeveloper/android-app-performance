@@ -3,12 +3,12 @@ Coding practice to increase performance of Android App
 
 
 ## Performance Tips
-- 1. Avoiding Unnecessary Object Creation
-- 2. Creating static methods
-- 3. Creating final static variables
-- 4. Using Enhanced for Loop
-- 5. Minimizing access to private methods from inner class
-- 6. Using int where possible.
+1. Avoiding Unnecessary Object Creation
+2. Creating static methods
+3. Creating final static variables
+4. Using Enhanced for Loop
+5. Minimizing access to private methods from inner class
+6. Using int where possible.
 
 ## 1. Avoiding Unnecessary Object Creation
 Method using unnecessary variable
